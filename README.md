@@ -1,11 +1,11 @@
 # Hello-World
 First Repository
 # Table of Contents
-**Project Title**
-**Description**
-**Tools used**
-**Files used**
-**How to run program**
+**Project Title**,
+**Description**,
+**Tools used**,
+**Files used**,
+**How to run program**,
 **Additional Information** 
 
 # Project Title 
